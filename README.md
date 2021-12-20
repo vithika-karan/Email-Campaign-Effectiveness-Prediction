@@ -14,7 +14,7 @@ Email advertising is the act of sending promotional emails to customers in mass 
 Email campaign effectiveness is a way of analyzing the kind of email campaigns being run by businesses in order to carry out their marketing and promotional agendas and hence they need to know how well the campaign is working.
 
 The work here characterizes and predicts the emails if they are going to be ignored; read; acknowledged on the basis of the various features related to the emails in the dataset and makes recommendations to lower the number of ignored emails.
-####Approach
+#### Approach
 The approach followed here is to first check the sanctity of the data and then understand the features involved. The events followed were in our approach:
 * **Understanding the Data**
 * **Data cleaning and preprocessing**- finding null values and imputing them with appropriate values.
