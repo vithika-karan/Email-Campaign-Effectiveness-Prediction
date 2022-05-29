@@ -2,7 +2,7 @@
   <img src="image\email.jpg" alt="Email Logo.png" width="280px" height="160px">
 </p>
 <h1 align="center"> Email Campaign Effectiveness Prediction </h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+<h3 align="center"> AlmaBetter Verified Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p align="center"> 
 </p>
